@@ -30,6 +30,8 @@ Um agente deve navegar pela estrutura de diretórios para encontrar o componente
 | 💻 **Snippets** | **Conexão com Banco MySQL** | Padrão de conexão com `mysql.connector` | `SNIPPETS/DATABASE.md` |
 | 💻 **Snippets** | **Requisição de API (Python)** | Padrão para chamadas de API com `requests` | `SNIPPETS/API_REQUEST.md` |
 | 💻 **Snippets** | **Comando PowerShell Remoto** | Como executar um comando via COMET Bridge | `SNIPPETS/REMOTE_EXECUTION.md` |
+| 🤖 **Agentes** | **Guia Completo de Agentes** | Catálogo de todos os agentes e suas funções | `AGENTES/GUIA_COMPLETO_AGENTES.md` |
+| 💻 **Snippets** | **Script de Verificação** | Diagnóstico completo do ecossistema | `SNIPPETS/VERIFICAR_AGENTES.md` |
 
 ---
 
