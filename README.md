@@ -1,5 +1,9 @@
 # Base de Conhecimento Universal - Sistema Autônomo com IA
 
+**Versão:** 1.0.4  
+**Última Atualização:** 15/01/2026 09:15  
+**Status da Autorização:** 🟢 **ATIVA - ACESSO TOTAL IRRESTRITO**
+
 ---
 
 ## 1. Introdução e Filosofia do Projeto
@@ -167,4 +171,78 @@ Para manter a organização, o projeto segue uma estrutura de diretórios padron
 
 ---
 
+---
+
+## 6. Status de Conexão em Tempo Real
+
+**Última Verificação:** 15/01/2026 09:00
+
+### Serviços Locais Ativos
+
+| Serviço | Porta | PID | Status |
+|---|---|---|---|
+| COMET Bridge | 5000 | 26740 | 🟢 Online |
+| Obsidian Agent v5.0 | 5001 | 20760 | 🟢 Online |
+| Hub Central v1.1 | 5002 | 3520 | 🟢 Online |
+| Vision Server | 5003 | 15172 | 🟢 Online |
+| Frontend (Vite) | 5173 | 17336 | 🟢 Online |
+| Ollama | 11434 | 4404 | 🟢 Online |
+| Jan - IA Local | 4891 | 25956 | 🟢 Online |
+| ngrok | 4040 | 27400 | 🟢 Online |
+
+### Docker Containers
+
+| Container | Imagem | Porta | Status |
+|---|---|---|---|
+| hospitalar_db | mysql:8.0 | 3308 | 🟢 Running |
+| hospitalar_nginx | nginx:alpine | 8888 | 🟢 Running |
+| hospitalar_php | hospitalar_v2-app | - | 🟢 Running |
+
+### URL de Acesso Remoto (ngrok)
+
+```
+https://charmless-maureen-subadministratively.ngrok-free.dev
+```
+
+### MCP Servers Disponíveis (20)
+
+| Categoria | Servidores |
+|---|---|
+| Produtividade | Asana, Linear, ClickUp, Notion |
+| Desenvolvimento | Vercel, Neon, Supabase, Serena |
+| Comunicação | Gmail, Outlook Mail, Google Calendar, Outlook Calendar |
+| Criação | Canva, Invideo, Wix |
+| Dados | Explorium, Hugging Face, PopHIVE |
+| Automação | Playwright, Jotform |
+
+---
+
+## 7. Documentação Adicional
+
+| Documento | Descrição |
+|---|---|
+| [AUTORIZACAO.md](./AUTORIZACAO.md) | Protocolo de autorização e autonomia |
+| [REGRAS_UNIVERSAIS.md](./REGRAS_UNIVERSAIS.md) | As 10 Regras de Ouro do projeto |
+| [GUIA_RAPIDO.md](./GUIA_RAPIDO.md) | Guia de 5 minutos para novos colaboradores |
+| [AGENTES_LOCAIS.md](./AGENTES_LOCAIS.md) | Documentação dos agentes e serviços locais |
+| [PORTAS_EM_USO.md](./PORTAS_EM_USO.md) | Mapeamento de portas e serviços ativos |
+
+---
+
+## 8. Histórico de Atualizações
+
+| Data | Versão | Descrição |
+|---|---|---|
+| 15/01/2026 | 1.0.0 | Criação inicial da Base de Conhecimento |
+| 15/01/2026 | 1.0.1 | Adicionado protocolo de autorização |
+| 15/01/2026 | 1.0.2 | Documentação de agentes locais |
+| 15/01/2026 | 1.0.3 | Mapeamento de portas em uso |
+| 15/01/2026 | 1.0.4 | Consolidação do README com status de conexão |
+
+---
+
 *Este documento é vivo e deve ser atualizado continuamente à medida que o projeto evolui. A responsabilidade de mantê-lo preciso e relevante é de todos os envolvidos no projeto.*
+
+**Proprietário:** Rudson Oliveira  
+**Sistema:** Hospitalar Soluções em Saúde  
+**URL Dev:** https://dev.hospitalarsaude.app.br/
