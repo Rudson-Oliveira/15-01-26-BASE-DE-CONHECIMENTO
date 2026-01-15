@@ -1,8 +1,22 @@
 # Base de Conhecimento Universal - Sistema Autônomo com IA
 
-**Versão:** 1.0.4  
-**Última Atualização:** 15/01/2026 09:15  
+**Versão:** 2.0  
+**Última Atualização:** 15/01/2026 11:30  
 **Status da Autorização:** 🟢 **ATIVA - ACESSO TOTAL IRRESTRITO**
+
+---
+
+## 🚢 FAROL DO PROJETO - CONSULTE PRIMEIRO!
+
+> **ATENÇÃO AGENTES:** Antes de iniciar qualquer tarefa, consulte o [Farol do Projeto](./FAROL_DO_PROJETO/README.md) para encontrar componentes reutilizáveis e evitar retrabalho.
+
+| Categoria | Componente | Descrição | Link |
+|---|---|---|---|
+| 🏗️ Infraestrutura | Docker Mega Ultra v6.0 | Stack completa com 16 serviços | [Acessar](./FAROL_DO_PROJETO/INFRAESTRUTURA/DOCKER_MEGA_ULTRA.md) |
+| 🤖 Agentes | Hub Central v1.1 | Orquestrador de agentes e triggers | [Acessar](./FAROL_DO_PROJETO/AGENTES/HUB_CENTRAL.md) |
+| 🤖 Agentes | COMET Bridge v1.0 | Ponte para execução remota PowerShell | [Acessar](./FAROL_DO_PROJETO/AGENTES/COMET_BRIDGE.md) |
+| 🔌 APIs | Budget API v1.0 | API RESTful para orçamentos (FastAPI) | [Acessar](./FAROL_DO_PROJETO/APIS/BUDGET_API.md) |
+| 💻 Snippets | Código Pronto | Conexão DB, Execução Remota, Vision | [Acessar](./FAROL_DO_PROJETO/SNIPPETS/README.md) |
 
 ---
 
